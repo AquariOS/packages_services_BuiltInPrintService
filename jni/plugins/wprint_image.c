@@ -17,6 +17,7 @@
  */
 
 #include <stdlib.h>
+#include <string.h>
 #include <math.h>
 #include "wprint_image.h"
 #include "lib_wprint.h"

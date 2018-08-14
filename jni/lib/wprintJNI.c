@@ -18,6 +18,7 @@
 
 #include <jni.h>
 #include "lib_wprint.h"
+#include <string.h>
 #include "wprint_debug.h"
 #include <errno.h>
 #include "../plugins/wprint_mupdf.h"
